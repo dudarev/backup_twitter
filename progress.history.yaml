@@ -1,0 +1,24 @@
+---
+step:
+    done: true
+    title: saves each tweet in separate file
+---
+step:
+    done: true
+    title: loads first 20
+---
+step:
+    done: true
+    title: init git repo
+---
+step:
+    done: true
+    title: add file to ignore list
+---
+step:
+    done: true
+    title: push to github
+---
+version:
+    done: true
+    title: '0.1'

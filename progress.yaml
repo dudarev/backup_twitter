@@ -1,21 +1,3 @@
 ---
 step:
-    title: saves each tweet in separate file
-    done: true
----
-step:
-    title: loads first 20
-    done: true
----
-step:
-    title: init git repo
-    done: true
----
-step:
-    title: add file to ignore list
----
-step:
-    title: push to github
----
-version:
-    title: '0.1'
+    title: an option to load only new tweets, if already loaded - break
