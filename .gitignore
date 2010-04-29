@@ -1,0 +1,7 @@
+data
+tweepy
+tweepy_src
+*.swp
+*.pyc
+config.yaml
+tweets.txt

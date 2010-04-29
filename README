@@ -1,0 +1,10 @@
+Python utilities to backup all tweets. 
+
+Tweepy library is used. To get it
+
+git clone git://github.com/joshthecoder/tweepy tweepy_src
+mv tweepy_src/tweepy .
+
+In principle calls to API to get user timeline do not require authentication. Still the credentials are read from config.yaml. Move config.yaml.sample and change parameters.
+
+If Twitter thoughs an error, its current state is saved in config.yaml.
